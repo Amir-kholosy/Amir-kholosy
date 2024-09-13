@@ -5,7 +5,8 @@
 - 📫 How to reach me linked in-->[linkedin.com/in/amir-kholosy-a77340253](https://www.linkedin.com/public-profile/settings)
 - mail-->amirkholosy9@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+
+
 
 <!---
 Amir-kholosy/Amir-kholosy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
