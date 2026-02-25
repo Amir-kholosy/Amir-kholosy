@@ -52,7 +52,7 @@ I am a Data Engineering trainee focused on building scalable data systems, ETL p
 
 ## 📫 Contact Me
 LinkedIn:  
-👉 linkedin.com/in/amir-kholosy-a77340253  
+👉 [linkedin.com/in/amir-kholosy-a77340253](https://www.linkedin.com/in/amir-kholosy-a77340253/)  
 
 Email:  
 👉 amirkholosy9@gmail.com  
