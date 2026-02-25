@@ -1,14 +1,62 @@
-- 👋 Hi, I’m Amir kholosy
-- 👀 I’m interested in Mobile App development using Flutter .
-- 🌱 I’m currently learning Flutter Framework
-- 💞️ I’m looking to collaborate on graduation project
-- 📫 How to reach me linked in-->[linkedin.com/in/amir-kholosy-a77340253](https://www.linkedin.com/public-profile/settings)
-- mail-->amirkholosy9@gmail.com
-- 😄 Pronouns: he/him
+# 👨‍💻 Amir Kholosy
 
+## 🚀 Data Engineer | ITI Trainee | Data & Automation Enthusiast
 
+I am a Data Engineering trainee focused on building scalable data systems, ETL pipelines, and database solutions. I am passionate about transforming raw data into structured, meaningful insights using modern data technologies.
 
-<!---
-Amir-kholosy/Amir-kholosy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 About Me
+- 🎓 Computer Science Graduate  
+- 🏫 ITI Data Engineering Track Trainee  
+- 💡 Interested in Data Engineering, Analytics, and Automation  
+- 📊 Building real-world portfolio projects for career growth  
+
+---
+
+## 🛠 Technical Skills
+**Programming**
+- Python  
+- SQL  
+- C++  
+- Dart (Flutter basics)
+
+**Data & Database**
+- SQL Server  
+- Database Design  
+- Query Optimization  
+- Stored Procedures & Triggers  
+
+**Analytics Tools**
+- Power BI (Data Visualization Basics)
+
+**Other Tools**
+- GitHub  
+- Data Cleaning & Processing Libraries  
+
+---
+
+## 📚 Currently Learning
+- Advanced Data Engineering Architecture  
+- Data Warehousing & Big Data Concepts  
+- ETL Pipeline Development  
+
+---
+
+## 🤝 Open to Collaborate On
+- Data Engineering Projects  
+- SQL Database Systems  
+- Data Analytics & BI Dashboards  
+
+---
+
+## 📫 Contact Me
+LinkedIn:  
+👉 linkedin.com/in/amir-kholosy-a77340253  
+
+Email:  
+👉 amirkholosy9@gmail.com  
+
+---
+
+😄 Pronouns: He / Him
