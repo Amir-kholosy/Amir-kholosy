@@ -150,7 +150,7 @@ Relational database solution for examination management.
 
 ## Contact
 
-* LinkedIn: linkedin.com/in/amirkholosy9
+* LinkedIn: [linkedin.com/in/amirkholosy9](https://www.linkedin.com/in/amirkholosy9/)
 * GitHub: github.com/Amir-kholosy
 * Email: [amirkholosy9@gmail.com](mailto:amirkholosy9@gmail.com)
 
